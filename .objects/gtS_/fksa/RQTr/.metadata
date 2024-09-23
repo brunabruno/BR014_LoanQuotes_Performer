@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Loan Home",
+  "Type": "Screen",
+  "Id": "RQTrKlwc90adZq2SzdBkrg",
+  "Reference": "4Erjj5bck0OheJZy4DtY-g/RQTrKlwc90adZq2SzdBkrg",
+  "ParentRef": "4Erjj5bck0OheJZy4DtY-g/fksackVSM0m8QT5ZvcZkEw",
+  "Created": "2024-09-20T13:45:23.3704421Z",
+  "Updated": "2024-09-20T13:45:53.2598373Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2GoFvEdm_k6I2qAPHIgPgQ" Reference="4Erjj5bck0OheJZy4DtY-g/txw2AvQlikChLoHYMdgrFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="file:///C:/Users/bruca/Documents/Case%203Cora%C3%A7%C3%B5es/CoE%20RPA%20-%20Estudo%20de%20Caso%20-%20Desenvolvedor%20RPA.pdf" CVScreenId="56a8ec82-5071-4d01-b374-d30cb3b7a2af" CvElementArea="464, 618, 281, 70" CvType="InputBox" DesignTimeRectangle="466, 621, 278, 66" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='username' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='username' tag='INPUT' type='text' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Enter username' aaname='Username' /&gt;" Guid="85caf8c3-bf53-4176-813f-f62c1911d1b1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0b5704bfc96eabf4edfdaf81f8231cf2.png" xmlns="">0djwvXtxhv0WYurY3lUHKLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

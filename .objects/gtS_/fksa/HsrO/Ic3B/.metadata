@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Approved message",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Ic3Bm_wA3U6MaJ_v3Frq9g",
+  "Reference": "4Erjj5bck0OheJZy4DtY-g/Ic3Bm_wA3U6MaJ_v3Frq9g",
+  "ParentRef": "4Erjj5bck0OheJZy4DtY-g/HsrOHa-NT0eATVdNaLYp9w",
+  "Created": "2024-09-20T13:09:03.6522631Z",
+  "Updated": "2024-09-20T13:09:54.0281754Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Loan Application",
+  "Type": "Screen",
+  "Id": "mQXO9AACnUSyBWhIn251kA",
+  "Reference": "4Erjj5bck0OheJZy4DtY-g/mQXO9AACnUSyBWhIn251kA",
+  "ParentRef": "4Erjj5bck0OheJZy4DtY-g/fksackVSM0m8QT5ZvcZkEw",
+  "Created": "2024-09-19T21:32:50.4955911Z",
+  "Updated": "2024-09-20T13:59:06.6203539Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Loan rate",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "WVTcKFpPUUuqNx0XGYd8SQ",
+  "Reference": "4Erjj5bck0OheJZy4DtY-g/WVTcKFpPUUuqNx0XGYd8SQ",
+  "ParentRef": "4Erjj5bck0OheJZy4DtY-g/HsrOHa-NT0eATVdNaLYp9w",
+  "Created": "2024-09-20T13:11:05.1860866Z",
+  "Updated": "2024-09-20T13:11:17.1163849Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

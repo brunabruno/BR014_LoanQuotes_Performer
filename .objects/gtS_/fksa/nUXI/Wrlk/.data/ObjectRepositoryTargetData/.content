@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rLExr3x_9UqJ70Thc9IQfg" Reference="4Erjj5bck0OheJZy4DtY-g/Wrlk1mEM4kO47Tmf2EYYwA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="file:///C:/Users/bruca/Documents/Case%203Cora%C3%A7%C3%B5es/CoE%20RPA%20-%20Estudo%20de%20Caso%20-%20Desenvolvedor%20RPA.pdf" CVScreenId="56a8ec82-5071-4d01-b374-d30cb3b7a2af" DesignTimeRectangle="542, 858, 125, 61" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="9225a0b2-e04c-4b2e-8a32-d922e6d18672" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="77f67b0ae7451b0816ab3357fd930303.png" xmlns="">0x9n9B9b5b02yMiqy0OtVew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6Eh_AMjNLUuACtW2-n-MKA" Reference="4Erjj5bck0OheJZy4DtY-g/MqCO2OgGyUevHhxRyZ1y6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://uibank.uipath.com/welcome" CVScreenId="a9ffbcba-0903-4921-9299-c1dafebad5bc" DesignTimeRectangle="784, 712, 328, 61" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='I agree to the Privacy Policy →' type='button' /&gt;" Guid="181979fb-c4bb-4001-8a7b-2b0f2a9dbbf8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4ed52076c6e41c900460871239e79d7d.png" xmlns="">0BYXvbBJ8Hk6gCiqmfjKEbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Not approved message",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Id": "KJWRj41TT0iN_Zu5VJqa4g",
+  "Reference": "4Erjj5bck0OheJZy4DtY-g/KJWRj41TT0iN_Zu5VJqa4g",
+  "ParentRef": "4Erjj5bck0OheJZy4DtY-g/HsrOHa-NT0eATVdNaLYp9w",
+  "Created": "2024-09-20T00:00:18.3537588Z",
+  "Updated": "2024-09-20T00:01:21.0461906Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

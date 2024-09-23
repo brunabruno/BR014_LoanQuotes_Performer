@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vh3HHp1rbEK0Tfu_MQG42A" Reference="4Erjj5bck0OheJZy4DtY-g/kvHb2VwFzUSnbKMdKKOYjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="file:///C:/Users/bruca/Documents/Case%203Cora%C3%A7%C3%B5es/CoE%20RPA%20-%20Estudo%20de%20Caso%20-%20Desenvolvedor%20RPA.pdf" DesignTimeRectangle="1318, 811, 168, 86" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl id='applyForLoan' aaname=' Apply For A Loan →' /&gt;" Guid="2676bcf2-9a7c-4f1b-a78d-dda291cb9dd7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9a1bf9c1fd33847c14738e8ed68524be.png" xmlns="">0Q-Qo5Hn5c0CL3PQx7jWKNw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

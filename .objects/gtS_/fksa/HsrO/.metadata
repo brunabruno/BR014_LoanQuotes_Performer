@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Loan Result",
+  "Type": "Screen",
+  "Id": "HsrOHa-NT0eATVdNaLYp9w",
+  "Reference": "4Erjj5bck0OheJZy4DtY-g/HsrOHa-NT0eATVdNaLYp9w",
+  "ParentRef": "4Erjj5bck0OheJZy4DtY-g/fksackVSM0m8QT5ZvcZkEw",
+  "Created": "2024-09-19T23:57:55.3825321Z",
+  "Updated": "2024-09-20T13:59:15.2152856Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
